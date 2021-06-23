@@ -26,8 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Required User Stories Demo](GIFs/SimpleToDoBasic.gif)
-[Stretch User Stories Demo](GIFs/SimpleToDoBonus.gif)
+![Required User Stories Demo](GIFs/SimpleToDoBasic.gif)
+
+![Stretch User Stories Demo](GIFs/SimpleToDoBonus.gif)
 
 GIFs created with [Kap](https://getkap.co/).
 
